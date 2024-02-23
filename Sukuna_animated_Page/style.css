@@ -23,9 +23,6 @@ video {
     transition: 1s;
     
 }
-.myVol .volume{
-    background-color: #f15405;
-}
 
 .container {
     max-width: 950px;
